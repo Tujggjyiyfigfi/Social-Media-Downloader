@@ -6,6 +6,7 @@ API for Social Media Downloader (Node.js and Express).
 4. Facebook Video Downloader. (/api/facebook)
 5. Soundcloud Downloader. (/api/soundcloud)
 6. DailyMotion Downloader. (/api/dailymotion)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tujggjyiyfigfi/Social-Media-Downloader)
 
 
 ### Install Node.js
